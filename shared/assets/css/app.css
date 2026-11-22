@@ -492,6 +492,7 @@ body.reader-wide .paper,body.reader-wide .lc-page,body.reader-wide .repo-landing
 :root[data-theme="dark"] .toc {border-left:0.06rem solid #454545}
 :root[data-theme="dark"] .sidebar-top,:root[data-theme="dark"] .right-tabs {background:#272727;border-bottom:0.06rem solid #454545}
 :root[data-theme="dark"] :is(.groups,.lc-preview-nav) summary {color:#bdbdbd}
+:root[data-theme="dark"] .nav-item {border:0}
 :root[data-theme="dark"] .nav-item:hover {background:#363636}
 :root[data-theme="dark"] .nav-item.active {background:#363636}
 :root[data-theme="dark"] .nav-item.active:hover {background:#363636}
