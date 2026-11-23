@@ -1,0 +1,7 @@
+/* Portal-only course navigation. The Reader's shared app.css is unchanged. */
+.portal-tile-info ul.portal-course-list {margin:0.65rem 0 0;padding-left:1.4rem;list-style-type:disc;list-style-position:outside}
+.portal-tile-info ul.portal-course-list > li.portal-course-entry {display:list-item;margin:0 0 1rem;padding:0;list-style-type:disc}
+.portal-tile-info h4.portal-course-name {margin:0;padding:0;border:0;font-size:1rem;font-weight:400;line-height:1.5}
+.portal-tile-info .portal-course-title {font-weight:700}
+.portal-tile-info .portal-course-languages {font-size:1rem;font-weight:400}
+.portal-tile-info p.portal-course-meta {margin:0.16rem 0 0;color:#575b63;font-size:0.9rem;font-weight:400;line-height:1.45}
