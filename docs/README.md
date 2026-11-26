@@ -12,9 +12,9 @@ Knowledge and independent educational resources / Wissen und unabhängige Bildun
 
 ## Overview
 
-Monowlith brings together independent projects and educational resources. Explore the Learning Courses platform to study mathematics, computer science and electrical engineering.
+Monowlith brings together independent projects and educational resources. Explore Learning Courses: 22 school and university courses in mathematics, computer science, natural sciences, engineering, architecture and business, each in English and German.
 
-Monowlith bündelt unabhängige Projekte und Bildungsangebote. Die Lernkurse bieten einen Einstieg in Mathematik, Informatik und Elektrotechnik.
+Monowlith bündelt unabhängige Projekte und Bildungsangebote. Learning Courses bietet 22 Schul- und Universitätskurse in Mathematik, Informatik, Naturwissenschaften, Ingenieurwissenschaften, Architektur und Wirtschaft, jeweils auf Deutsch und Englisch.
 
 ## Contents
 
